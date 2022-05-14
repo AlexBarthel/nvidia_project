@@ -41,7 +41,7 @@ After that, it starts classifying the images. It uses `torch` and `torchvision` 
 ###### This model was trained to work with my face but sometimes it will work for other people. It seems to mostly go off of skin tone, but I managed to train my model to pretty much 100% accuracy.
 ![image](https://user-images.githubusercontent.com/98185865/167230010-88a26ef8-871c-49a1-a36f-1b236abecb07.png)
 
-[View a video explanation here](video link)
+[View a video explanation here](https://www.youtube.com/watch?v=FYEHcVALqwo&ab_channel=LoneWolf)
 
 ---
 
